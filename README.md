@@ -25,3 +25,40 @@ Funcionamento de um Website
 5. Renderização no navegador: O navegador interpreta todo esse front e exibe os site pras pessoas
 
 ----------------------------------------------------------------------
+
+*O que é API ?*
+
+    É um conjunto de regras e definições que permite diferentes aplicações de software ou componentes se comuniquem entre si.
+    Funciona como um intermediário, permitindo que pedidos sejam feitos e respostas sejam recebidas entre diferentes sistemas de software.  
+
+*Tipos de API*
+
+- API RESTful
+
+    Refere-se a APIs que seguem os princípios do REST (Representation State Transfer). São baseadas em padrões HTTP e utilizadas para interações web.
+
+    *Características de APIs RESTful*
+
+    ° Uso do métodos HTTP (GTE, POST, PUT, DELETE) para operações CRUD.
+    ° Curva de aprendizado menor.
+    ° Fácil de entender e implementar.
+
+- API SOAP
+
+    SOAP (Simple Object Access Protocol) é um protocolo que define um padrão para a troca de mensagens baseadas em XML.
+    
+    *Características de APIs SOAP*
+
+    ° Protocolo baseado em XML para troca de informações.
+    ° Independente de Linguagem e plataforma de transporte.
+    ° Suporte para operações complexas e segurança avançada.
+
+- API GraphQL
+
+    Uma linguagem de consulta para sua API, e um servidor capaz de executar essas consultas, retornando apenas os dados especificados.
+
+    *Características de APIs GraphQL*
+
+    ° Permite que os clientes especifiquem exatamente quais dados querem.
+    ° Eficiente na redução de solicitações e no tamanho dos dados transferidos.
+    ° Flexível e fortemente tipada, facilitando a evolução das APIS.
